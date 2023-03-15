@@ -1,6 +1,6 @@
 {
   "name": "base",
-  "homepage": "https://VovaKlimyuk.github.io/base",
+  "homepage": "https://<userName>.github.io/<repoName>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
